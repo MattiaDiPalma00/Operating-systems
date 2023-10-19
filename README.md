@@ -1,2 +1,2 @@
 # Operating-systems
-Raccolta di esercizi su sincronizzazioni, thread e mutex
+Collection of synchronization, thread and mutex exercises
